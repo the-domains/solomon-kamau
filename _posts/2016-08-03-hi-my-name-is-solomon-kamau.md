@@ -1,18 +1,22 @@
 ---
-datePublished: '2016-08-03T19:40:13.720Z'
+datePublished: '2016-08-03T19:43:49.708Z'
+sourcePath: _posts/2016-08-03-hi-my-name-is-solomon-kamau.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-03T19:39:05.193Z'
-title: ''
+dateModified: '2016-08-03T19:43:48.177Z'
+title: ABOUT ME
 publisher: {}
 description: 'Hi, my name is Solomon Kamau,'
 starred: false
-sourcePath: _posts/2016-08-03-hi-my-name-is-solomon-kamau.md
 url: hi-my-name-is-solomon-kamau/index.html
-_type: Blurb
+_type: MediaObject
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1183d295-9175-47ec-b299-20a364f04930.jpg)
+
+### ABOUT ME
+
 Hi, my name is Solomon Kamau,
 
 I am and always have been an outlier, I was exposed to entrepreneurship at an early age, watching my parents in Kenya, and later in America etch their way into different industries. Creating success through hard work, integrity, determination, customer service and phenomenal business acumen.
