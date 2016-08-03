@@ -1,4 +1,3 @@
-layout_spectrum: 0.6374178030528128
 typography_spectrum: 0.5302481944672763
 color:
   brandStrength: 0.4552097979467362
@@ -11,6 +10,11 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-name: Solomon Kamau
+layout_spectrum: 0.6374178030528128
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/a9ef9cd6-9ab2-413e-9a4e-03c09040c47f.jpg
+name: Solomon Kamau
+navigation:
+  - name: About Me
+    id: a378fc41-bb29-4346-8695-900a58ccbd5a
+    type: content
